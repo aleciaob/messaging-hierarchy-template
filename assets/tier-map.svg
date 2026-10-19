@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 556" width="1000" height="556" role="img" aria-labelledby="t d" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif">
+<title id="t">Messaging hierarchy tier map</title>
+<desc id="d">Fifteen tiers in three layers: A Foundation (tiers 1 to 6), B The case (tiers 7 to 11), C Applied messaging (tiers 12 to 15). Layer D, claim rules, applies to every tier.</desc>
+<rect x="0.5" y="0.5" width="999" height="555" rx="12" fill="#FFFFFF" stroke="#D0D7DE"/>
+<text x="30" y="42" font-size="21" font-weight="700" fill="#1F2933">Messaging hierarchy: 15 tiers in four layers</text>
+<text x="30" y="64" font-size="13" fill="#52606D">Reading order, top to bottom. Build order is different: see docs/pressure-tests-and-build-order.md</text>
+<rect x="30" y="84" width="770" height="130" rx="10" fill="#EAF2FB" stroke="#2B6CB0" stroke-width="1.5"/>
+<text x="46" y="124" font-size="30" font-weight="700" fill="#2B6CB0">A</text>
+<text x="46" y="150" font-size="15" font-weight="700" fill="#1F2933">Foundation</text>
+<text x="46" y="170" font-size="12" fill="#52606D">The problem, the</text>
+<text x="46" y="186" font-size="12" fill="#52606D">label and the limits</text>
+<rect x="196" y="100" width="186" height="44" rx="8" fill="#FFFFFF" stroke="#2B6CB0" stroke-width="1.2"/>
+<text x="208" y="127" font-size="13" fill="#1F2933"><tspan font-weight="700">1</tspan><tspan dx="8">Core problem</tspan></text>
+<rect x="399" y="100" width="186" height="44" rx="8" fill="#FFFFFF" stroke="#2B6CB0" stroke-width="1.2"/>
+<text x="411" y="127" font-size="13" fill="#1F2933"><tspan font-weight="700">2</tspan><tspan dx="8">Category frame</tspan></text>
+<rect x="602" y="100" width="186" height="44" rx="8" fill="#FFFFFF" stroke="#2B6CB0" stroke-width="1.2"/>
+<text x="614" y="127" font-size="13" fill="#1F2933"><tspan font-weight="700">3</tspan><tspan dx="8">Positioning statement</tspan></text>
+<rect x="196" y="154" width="186" height="44" rx="8" fill="#FFFFFF" stroke="#2B6CB0" stroke-width="1.2"/>
+<text x="208" y="181" font-size="13" fill="#1F2933"><tspan font-weight="700">4</tspan><tspan dx="8">Boundaries</tspan></text>
+<rect x="399" y="154" width="186" height="44" rx="8" fill="#FFFFFF" stroke="#2B6CB0" stroke-width="1.2"/>
+<text x="411" y="181" font-size="13" fill="#1F2933"><tspan font-weight="700">5</tspan><tspan dx="8">Naming map</tspan></text>
+<rect x="602" y="154" width="186" height="44" rx="8" fill="#FFFFFF" stroke="#2B6CB0" stroke-width="1.2"/>
+<text x="614" y="181" font-size="13" fill="#1F2933"><tspan font-weight="700">6</tspan><tspan dx="8">Category sanity check</tspan></text>
+<rect x="30" y="226" width="770" height="130" rx="10" fill="#EAF7F0" stroke="#2F855A" stroke-width="1.5"/>
+<text x="46" y="266" font-size="30" font-weight="700" fill="#2F855A">B</text>
+<text x="46" y="292" font-size="15" font-weight="700" fill="#1F2933">The case</text>
+<text x="46" y="312" font-size="12" fill="#52606D">Why a buyer should</text>
+<text x="46" y="328" font-size="12" fill="#52606D">believe and choose</text>
+<rect x="196" y="242" width="186" height="44" rx="8" fill="#FFFFFF" stroke="#2F855A" stroke-width="1.2"/>
+<text x="208" y="269" font-size="13" fill="#1F2933"><tspan font-weight="700">7</tspan><tspan dx="8">Benefit pillars</tspan></text>
+<rect x="399" y="242" width="186" height="44" rx="8" fill="#FFFFFF" stroke="#2F855A" stroke-width="1.2"/>
+<text x="411" y="269" font-size="13" fill="#1F2933"><tspan font-weight="700">8</tspan><tspan dx="8">Differentiators</tspan></text>
+<rect x="602" y="242" width="186" height="44" rx="8" fill="#FFFFFF" stroke="#2F855A" stroke-width="1.2"/>
+<text x="614" y="269" font-size="13" fill="#1F2933"><tspan font-weight="700">9</tspan><tspan dx="8">Alternatives map</tspan></text>
+<rect x="196" y="296" width="186" height="44" rx="8" fill="#FFFFFF" stroke="#2F855A" stroke-width="1.2"/>
+<text x="208" y="323" font-size="13" fill="#1F2933"><tspan font-weight="700">10</tspan><tspan dx="8">Capability chain</tspan></text>
+<rect x="399" y="296" width="186" height="44" rx="8" fill="#FFFFFF" stroke="#2F855A" stroke-width="1.2"/>
+<text x="411" y="323" font-size="13" fill="#1F2933"><tspan font-weight="700">11</tspan><tspan dx="8">Anchor sentence</tspan></text>
+<rect x="30" y="368" width="770" height="130" rx="10" fill="#FFF4E5" stroke="#B7791F" stroke-width="1.5"/>
+<text x="46" y="408" font-size="30" font-weight="700" fill="#B7791F">C</text>
+<text x="46" y="434" font-size="15" font-weight="700" fill="#1F2933">Applied messaging</text>
+<text x="46" y="454" font-size="12" fill="#52606D">The case, adapted to</text>
+<text x="46" y="470" font-size="12" fill="#52606D">segments and roles</text>
+<rect x="196" y="384" width="186" height="44" rx="8" fill="#FFFFFF" stroke="#B7791F" stroke-width="1.2"/>
+<text x="208" y="411" font-size="13" fill="#1F2933"><tspan font-weight="700">12</tspan><tspan dx="8">Segment messaging</tspan></text>
+<rect x="399" y="384" width="186" height="44" rx="8" fill="#FFFFFF" stroke="#B7791F" stroke-width="1.2"/>
+<text x="411" y="411" font-size="13" fill="#1F2933"><tspan font-weight="700">13</tspan><tspan dx="8">Buyer-role messaging</tspan></text>
+<rect x="602" y="384" width="186" height="44" rx="8" fill="#FFFFFF" stroke="#B7791F" stroke-width="1.2"/>
+<text x="614" y="411" font-size="13" fill="#1F2933"><tspan font-weight="700">14</tspan><tspan dx="8">Proof library</tspan></text>
+<rect x="196" y="438" width="186" height="44" rx="8" fill="#FFFFFF" stroke="#B7791F" stroke-width="1.2"/>
+<text x="208" y="465" font-size="13" fill="#1F2933"><tspan font-weight="700">15</tspan><tspan dx="8">Objection responses</tspan></text>
+<rect x="816" y="84" width="154" height="414" rx="10" fill="#F1EAFB" stroke="#6B46C1" stroke-width="1.5"/>
+<text x="832" y="124" font-size="30" font-weight="700" fill="#6B46C1">D</text>
+<text x="832" y="150" font-size="15" font-weight="700" fill="#1F2933">Claim rules</text>
+<text x="832" y="174" font-size="12" fill="#52606D">Apply to every tier.</text>
+<text x="832" y="192" font-size="12" fill="#52606D">13 rules, each with</text>
+<text x="832" y="210" font-size="12" fill="#52606D">a fictional example.</text>
+<text x="832" y="246" font-size="12" fill="#52606D">Set them early,</text>
+<text x="832" y="264" font-size="12" fill="#52606D">before the pillars.</text>
+<line x1="800" y1="149.0" x2="816" y2="149.0" stroke="#6B46C1" stroke-width="1.5" stroke-dasharray="4 3"/>
+<line x1="800" y1="291.0" x2="816" y2="291.0" stroke="#6B46C1" stroke-width="1.5" stroke-dasharray="4 3"/>
+<line x1="800" y1="433.0" x2="816" y2="433.0" stroke="#6B46C1" stroke-width="1.5" stroke-dasharray="4 3"/>
+<text x="30" y="532" font-size="12" fill="#52606D">Each tier has a placeholder, a prompt and a test. See template/hierarchy-template.md</text>
+</svg>
